@@ -1,6 +1,6 @@
 // Print Factrial of a Number n
 
-public class Problem3 {
+public class Prblm3 {
     public static int fact(int n) {
         // Base Case
         if (n == 0){

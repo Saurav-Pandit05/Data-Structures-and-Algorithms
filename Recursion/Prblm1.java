@@ -1,6 +1,6 @@
 // Print Numbers from n to 1 (Decresing Oder)
 
-public class Problem1 {
+public class Prblm1 {
     public static void PrintDec(int n) {
         // Base Case
         if (n == 1){
