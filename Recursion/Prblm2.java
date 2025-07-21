@@ -1,4 +1,3 @@
-
 // Print Numbers from 1 to n (Increasing Order)
 
 public class Prblm2 {
